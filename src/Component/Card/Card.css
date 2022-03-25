@@ -1,0 +1,27 @@
+.guns{
+    border: 1px solid grey;
+    height: 610px;
+    width: 299px;
+    position: relative;
+    margin: 20px auto;
+}
+.guns img{
+    width: 286px;
+}
+.btn{
+    width: 100%;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: coral;
+    color: white;
+    position: absolute;
+    bottom: 0;
+}
+.btn p{
+    margin-right: 8px;
+}
+.gun-info{
+    padding: 10px;
+}
